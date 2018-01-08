@@ -103,3 +103,5 @@ ENV/
 # Developer chosen ignored files
 
 *.DS_Store
+
+armoire/\.idea/
